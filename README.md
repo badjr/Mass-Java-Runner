@@ -14,4 +14,4 @@ From the command line, type `massjavarunner.sh [ stdinFiles ]`
 
 ##Disclaimer
 
-It's not bug free. Click [https://github.com/badjr/Mass-Java-Runner/](here) for known bugs.
+It's not bug free. Click (https://github.com/badjr/Mass-Java-Runner/issues)[here] for known bugs.
