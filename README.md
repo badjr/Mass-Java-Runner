@@ -11,3 +11,10 @@ The source code of the Java program(s) is also appended to the .txt files.
 From the command line, type `massjavarunner.sh [ stdinFiles ]`
 
 `stdinFiles`: One or more input files that would be supplied to the Java programs as stdin.
+
+##Disclaimer
+
+It's not bug free. Some bugs that I know of:
+
+* It will hang if there's a Java file that has an infinite loop
+* If a Java file declares multiple `Scanner`s with `System.in` as the argument, it won't be able to compile it.
