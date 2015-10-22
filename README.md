@@ -16,5 +16,5 @@ From the command line, type `massjavarunner.sh [ stdinFiles ]`
 
 It's not bug free. Some bugs that I know of:
 
-* It will hang if there's a Java file that has an infinite loop
+* It will hang if there's a Java file that has an infinite loop. `Ctrl+C` should terminate it.
 * If a Java file declares multiple `Scanner`s with `System.in` as the argument, it won't be able to compile it.
