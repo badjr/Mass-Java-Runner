@@ -10,6 +10,6 @@ Place the Java source files, input files (if any), and the Bash script into a di
 
 `stdinFiles`: One or more input files that would be supplied to the Java programs as stdin.
 
-##Disclaimer
+##Bugs
 
-It's not bug free. Click [here](https://github.com/badjr/Mass-Java-Runner/issues) for known bugs.
+Click [here](https://github.com/badjr/Mass-Java-Runner/issues) for known bugs.
